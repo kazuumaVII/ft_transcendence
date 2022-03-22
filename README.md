@@ -42,12 +42,12 @@ Chat
 - Through the chat interface users must be able to see other players profiles
 
 Game
-The main purpose of this website is to play pong against other players and show everyone how good you are!
-Therefor we should be able to play pong directly on the website and live against an other player.
-It can be in a canvas or it can be with 3d effects, it can be ugly but it must be a pong like the one from 1972.
-If you want to, you can add power ups, different maps etc... but user must be able to play a default pong game without any added stuff.
-The game must be responsive!
-Other users can watch the game live without interfering in it.
+- The main purpose of this website is to play pong against other players and show everyone how good you are!
+- Therefor we should be able to play pong directly on the website and live against an other player.
+- It can be in a canvas or it can be with 3d effects, it can be ugly but it must be a pong like the one from 1972.
+- If you want to, you can add power ups, different maps etc... but user must be able to play a default pong game without any added stuff.
+- The game must be responsive!
+- Other users can watch the game live without interfering in it.
 
 
 
