@@ -1,5 +1,5 @@
 # ft_transcendence
-Web application of an amazing pong game.
+Web application of an real-time online pong games with a chat system, ranking, adding friends, 2FA.
 
 ## Back end:
 
