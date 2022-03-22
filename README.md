@@ -1,5 +1,10 @@
 # ft_transcendence
-Web application of an real-time online pong games with a chat system, ranking, adding friends, 2FA.
+
+# Introduction 🤔
+Website for the mighty pong contest. Your website will help users organize pong tournaments and play against each other, with a chat system, leaderboard, add friends, double authentication.
+
+USER PROFILE: change of login, photo import.
+GAMES: Choice of several maps with a queuing system.
 
 ## Back end:
 
