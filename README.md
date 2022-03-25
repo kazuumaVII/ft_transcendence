@@ -1,5 +1,6 @@
 # ft_transcendence
 
+## Preview 
 <div align="center">
         
        
@@ -9,6 +10,7 @@
 <br/>
 <br/>
 
+## Game 
 <div align="center">
 <img align="left" src='https://user-images.githubusercontent.com/43440614/160108511-72b41139-48a5-4869-a54c-63bd21c9aeea.gif' width="486" />       
 <img align="right" src='https://user-images.githubusercontent.com/43440614/160108958-acad1404-a965-4954-ac56-7fde05ade3ae.gif' width="486" /> 
@@ -17,6 +19,7 @@
 <br/>
 <br/>
 
+## Param 
 <div align="center">
 <img align="left" src='https://user-images.githubusercontent.com/43440614/160109659-58beea7d-f507-4598-a504-08a103ed1ad0.gif' width="486" />       
 <img align="right" src='https://user-images.githubusercontent.com/43440614/160111345-aa688acc-9028-498f-b824-cd6a0a0b0e0a.gif' width="486" />
