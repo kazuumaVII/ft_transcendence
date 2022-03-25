@@ -17,15 +17,6 @@
 </div>
 
 
-dsdsdsdsdsd
-dsdsdsdsdsdsd
-
-<div align="center">
-<img align="center" src='https://user-images.githubusercontent.com/43440614/160109659-58beea7d-f507-4598-a504-08a103ed1ad0.gif' />       
-        
-     <img align="center" src='https://user-images.githubusercontent.com/43440614/160110865-0ed904b3-9202-489d-8d04-68d63e02d565.gif' />
-
-</div>
 
 
 
