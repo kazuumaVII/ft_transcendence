@@ -4,6 +4,14 @@
 <img align="center" src='https://user-images.githubusercontent.com/43440614/160107506-8e17a96e-64dc-400b-8125-dfe68b05ab91.gif' /> 
 </div>
 
+<div align="center">
+<img align="center" src='https://user-images.githubusercontent.com/43440614/160108511-72b41139-48a5-4869-a54c-63bd21c9aeea.gif' /> 
+        
+</div>
+
+
+
+
 
 ## Introduction 🤔
 Website for the mighty pong contest. Your website will help users organize pong tournaments and play against each other, with a chat system, leaderboard, add friends, double authentication.
