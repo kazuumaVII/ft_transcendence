@@ -5,6 +5,8 @@
        
 <img align="center" src='https://user-images.githubusercontent.com/43440614/160107506-8e17a96e-64dc-400b-8125-dfe68b05ab91.gif' /> 
 </div>
+
+<br/>
 <br/>
 
 <div align="center">
@@ -12,9 +14,12 @@
 <img align="right" src='https://user-images.githubusercontent.com/43440614/160108958-acad1404-a965-4954-ac56-7fde05ade3ae.gif' width="486" /> 
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
-<img align="center" src='https://user-images.githubusercontent.com/43440614/160109659-58beea7d-f507-4598-a504-08a103ed1ad0.gif' />       
-<img align="center" src='https://user-images.githubusercontent.com/43440614/160111345-aa688acc-9028-498f-b824-cd6a0a0b0e0a.gif' />
+<img align="left" src='https://user-images.githubusercontent.com/43440614/160109659-58beea7d-f507-4598-a504-08a103ed1ad0.gif' width="486" />       
+<img align="right" src='https://user-images.githubusercontent.com/43440614/160111345-aa688acc-9028-498f-b824-cd6a0a0b0e0a.gif' width="486" />
 </div>
 
 
