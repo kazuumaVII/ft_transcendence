@@ -10,7 +10,7 @@
 
 ## Game 
 <div align="center">
-    <img align="center" src='https://user-images.githubusercontent.com/43440614/160108511-72b41139-48a5-4869-a54c-63bd21c9aeea.gif' width="490" />           <img align="center" src='https://user-images.githubusercontent.com/43440614/160108958-acad1404-a965-4954-ac56-7fde05ade3ae.gif' width="490" /> 
+    <img align="center" src='https://user-images.githubusercontent.com/43440614/160108511-72b41139-48a5-4869-a54c-63bd21c9aeea.gif' width="495" />           <img align="center" src='https://user-images.githubusercontent.com/43440614/160108958-acad1404-a965-4954-ac56-7fde05ade3ae.gif' width="495" /> 
 </div>
 
 <br/>
